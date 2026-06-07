@@ -1,0 +1,4 @@
+{
+    "luau-lsp.format.convertQuotes": true,
+    "luau-lsp.fflags.enableNewSolver": true,
+}

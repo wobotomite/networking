@@ -3,6 +3,7 @@ version = "0.1.0"
 description = "a simple buffer-based networking library for roblox"
 authors = ["wobotomite"]
 license = "MIT"
+repository = "https://github.com/wobotomite/networking"
 
 [target]
 environment = "roblox"
