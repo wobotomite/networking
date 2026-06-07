@@ -1,0 +1,12 @@
+# Project place file
+/networking.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+/luau_packages
+/lune_packages
+**/.DS_Store
